@@ -1,0 +1,31 @@
+owner: qme-ai-org
+repo: upptime
+userAgent: qme-ai-status
+assignees:
+  - mohamedmamdouh22
+
+sites:
+  - name: QME AI App
+    url: https://app.qme.ai
+    icon: https://app.qme.ai/favicon.ico
+
+  - name: Backend API
+    url: https://app.qme.ai/api/backend-health
+    icon: https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f916.png
+
+  - name: Celery Flower (Workers)
+    url: https://celery-flower-production-199a.up.railway.app
+    headers:
+      - "Authorization: Basic cW1lOnFtZV9haV8yMDI1"
+    icon: https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f33c.png
+
+status-website:
+  baseUrl: /upptime
+  logoUrl: https://app.qme.ai/favicon.ico
+  name: QME AI Status
+  introTitle: QME AI System Status
+  introMessage: Real-time status and uptime for QME AI services.
+  theme: dark
+  navbar:
+    - title: Website
+      href: https://app.qme.ai
