@@ -9,15 +9,19 @@ sites:
     url: https://app.qme.ai
     icon: https://app.qme.ai/favicon.ico
 
-  - name: Backend API
+  - name: Core Services
     url: https://app.qme.ai/api/backend-health
-    icon: https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f916.png
+    icon: https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/2699.png
 
-  - name: Celery Flower (Workers)
+  - name: Background Processing
     url: https://celery-flower-production-199a.up.railway.app
     headers:
       - "Authorization: Basic cW1lOnFtZV9haV8yMDI1"
-    icon: https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f33c.png
+    icon: https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/2699.png
+
+  - name: AI Tools (MCP)
+    url: https://app.qme.ai/.well-known/oauth-protected-resource
+    icon: https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9e0.png
 
 status-website:
   baseUrl: /upptime
