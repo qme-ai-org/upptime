@@ -4,18 +4,20 @@
     "url": "https://app.qme.ai",
     "icon": "https://app.qme.ai/favicon.ico",
     "slug": "qme-ai-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 975,
-    "timeDay": 1028,
-    "timeWeek": 837,
-    "timeMonth": 975,
-    "timeYear": 975,
-    "dailyMinutesDown": {}
+    "time": 948,
+    "timeDay": 624,
+    "timeWeek": 760,
+    "timeMonth": 948,
+    "timeYear": 948,
+    "dailyMinutesDown": {
+      "2026-07-23": 0
+    }
   },
   {
     "name": "Core Services",
