@@ -5,18 +5,19 @@
     "icon": "https://app.qme.ai/favicon.ico",
     "slug": "qme-ai-app",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 948,
-    "timeDay": 624,
-    "timeWeek": 760,
-    "timeMonth": 948,
-    "timeYear": 948,
+    "uptime": "97.72%",
+    "uptimeDay": "39.70%",
+    "uptimeWeek": "91.39%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "97.72%",
+    "time": 928,
+    "timeDay": 304,
+    "timeWeek": 753,
+    "timeMonth": 928,
+    "timeYear": 928,
     "dailyMinutesDown": {
-      "2026-07-23": 0
+      "2026-07-24": 113,
+      "2026-07-23": 755
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 160,
-    "timeWeek": 238,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "time": 221,
+    "timeDay": 294,
+    "timeWeek": 252,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 135,
-    "timeWeek": 226,
-    "timeMonth": 205,
-    "timeYear": 205,
+    "time": 209,
+    "timeDay": 301,
+    "timeWeek": 241,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 124,
-    "timeWeek": 222,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "time": 202,
+    "timeDay": 287,
+    "timeWeek": 236,
+    "timeMonth": 202,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   }
 ]
