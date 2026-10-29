@@ -1,7 +1,7 @@
 url: https://celery-flower-production-199a.up.railway.app
-status: down
-code: 404
-responseTime: 83
-lastUpdated: 2026-10-29T02:02:54.176Z
+status: up
+code: 200
+responseTime: 129
+lastUpdated: 2026-10-29T11:44:12.074Z
 startTime: 2026-06-29T17:55:50.406Z
 generator: Upptime <https://github.com/upptime/upptime>
